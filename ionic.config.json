@@ -1,0 +1,8 @@
+{
+  "name": "ALdev",
+  "app_id": "31516690",
+  "type": "ionic-angular",
+  "integrations": {
+    "cordova": {}
+  }
+}
